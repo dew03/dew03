@@ -21,24 +21,24 @@
 - Still learning, trying to log every attempt  
 - Aspiring to think calmly and implement cleanly
 
-### 🌱 Skills
+### 🌱 Tech Stack
 - Java
 - HTML, CSS, JavaScript
 - Spring Boot
 
-### 📫 Contact
+### 📫 Connect
 - ✉️ Email : foaming21@gmail.com
 - 💜 Blog : [velog.io/@dew-log](https://velog.io/@dew-log/posts)
 
 
-### 📚 Activity Overview
+### 📚 Activity & Stats
 <p align="center">
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=es998"alt="Baekjoon Tier"width="30%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dew-log&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"alt="Top Languages"width="30%" />
   <img src="https://github-readme-stats.vercel.app/api?username=dew-log&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_border=true&bg_color=0d1117"alt="GitHub Stats"width="30%" />
 </p>
 
-### 📈 GitHub Activity
+### 📈 Contribution Graph
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=dew-log&theme=github-dark&area=true"
