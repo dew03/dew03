@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1591181520189-abcb0735c65d?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="dew-log banner" width="300" />
+  <img src="hisu-lee-V4Pn7QeYdPQ-unsplash.jpg" alt="배너 이미지" width="350"/>
 </p>
 
 ## Hi there 👋
