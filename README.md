@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hisu-lee-V4Pn7QeYdPQ-unsplash.jpg" alt="배너 이미지" width="350"/>
+  <img src="hisu-lee-V4Pn7QeYdPQ-unsplash.jpg" alt="배너 이미지" width="450"/>
 </p>
 
 ## Hi there 👋
