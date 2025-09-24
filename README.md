@@ -50,7 +50,7 @@
 
 ### 📫 Connect
 - ✉️ Email : [foaming21 [at] gmail [dot] com](mailto:foaming21@gmail.com)
-- 💜 Blog : [velog.io/@dew-log](https://velog.io/@dew-log/posts)
+- 💜 Blog : [velog.io/@dew-log](https://velog.io/@creampasta/posts)
 
 
 ### 📚 Activity & Stats
