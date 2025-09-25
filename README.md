@@ -50,20 +50,20 @@
 
 ### 📫 Connect
 - ✉️ Email : [foaming21 [at] gmail [dot] com](mailto:foaming21@gmail.com)
-- 💜 Blog : [velog.io/@dew-log](https://velog.io/@creampasta/posts)
+- 💜 Blog : [velog.io/@dew03](https://velog.io/@creampasta/posts)
 
 
 ### 📚 Activity & Stats
 <p align="center">
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=es998"alt="Baekjoon Tier"width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dew-log&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"alt="Top Languages"width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dew-log&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_border=true&bg_color=0d1117"alt="GitHub Stats"width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dew03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"alt="Top Languages"width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dew03&show_icons=true&theme=tokyonight&hide=stars,prs,issues&hide_border=true&bg_color=0d1117"alt="GitHub Stats"width="30%" />
 </p>
 
 ### 📈 Contribution Graph
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dew-log&theme=github-dark&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dew03&theme=github-dark&area=true"
     alt="GitHub Activity Graph"
     width="75%" />
 </p>
